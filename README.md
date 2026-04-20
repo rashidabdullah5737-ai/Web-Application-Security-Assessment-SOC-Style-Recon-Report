@@ -1,5 +1,13 @@
 # 🔐 SOC-Style Penetration Testing Report
 
+![Pentest](https://img.shields.io/badge/Assessment-External%20Black%20Box-critical)
+![SOC Report](https://img.shields.io/badge/Format-SOC%20Style-blueviolet)
+![Nmap](https://img.shields.io/badge/Tool-Nmap%207.95-blue)
+![Nikto](https://img.shields.io/badge/Tool-Nikto-v2.5.0-red)
+![SSL](https://img.shields.io/badge/SSL%2FTLS-Audit-green)
+![Recon](https://img.shields.io/badge/Phase-Reconnaissance-orange)
+![Status](https://img.shields.io/badge/Project-Completed-success)
+
 ## 📌 Project Overview
 This repository contains a professional SOC-style external penetration testing assessment of a publicly accessible web application hosted on CDN infrastructure.
 
